@@ -6,4 +6,4 @@
   ![Find of Length of file](./resource/leOfFile.png)
 ## 3. Write a shell script to find prime numbers   
 #### Program file [Reverse a String](./findingPrimeNo.sh)  
-  ![Finding of Prime Number](./findingPrimeNo.png)
+  ![Finding of Prime Number](./resource/findingPrimeNo.png)
