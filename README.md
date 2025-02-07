@@ -3,4 +3,4 @@
   - [Daily Progress](./DailyLearned/)
   - [Lab experiment](./Labs_task/)
   - [Assignment](./Assignment/)
-  - [Mini Project](./Mini_
+  - [Mini Project](./Mini_Project-Personal_Fitness_Tracker)
